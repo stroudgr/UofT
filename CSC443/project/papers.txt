@@ -1,0 +1,8 @@
+Here are all the papers we cited:
+https://www.teach.cs.toronto.edu/~stroudgr/CSC443/project_full/
+
+Here are the original links to the papers we cited:
+1. http://dx.doi.org.myaccess.library.utoronto.ca/10.1145/1996413.1996415
+2. https://ieeexplore.ieee.org/document/7275708 (you can view the paper here: https://www.cs.helsinki.fi/u/jilu/paper/NoSQL02.pdf )
+3. https://doi-org.myaccess.library.utoronto.ca/10.1145/2902251.2902306
+4. https://dl-acm-org.myaccess.library.utoronto.ca/citation.cfm?doid=2463676.2465298
